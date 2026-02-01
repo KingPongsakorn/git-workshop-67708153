@@ -1,0 +1,8 @@
+# ไม่เอาโฟลเดอร์ secret.txt 
+secret.txt 
+# ไม่เอาโฟลเดอร์ node_modules
+node_modules/
+# ไม่เอาไฟล์ log
+*.log
+# ไม่เอาไฟล์ environment (ความลับ)
+.env
